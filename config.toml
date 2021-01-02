@@ -1,4 +1,4 @@
-shailjtitle = "H S Rai"
+title = "Shailja"
 
 # 1. Replace hsrai with your userID on code.gndec.ac.in server
 #baseURL = "http://code.gndec.ac.in/~shailja/www"
@@ -36,7 +36,7 @@ enableRobotsTXT = true
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
   youtube = ""
-  github = ""
+  github = "github.com/shailjasharma15"
   gitlab = ""
   linkedin = ""
   mastodon = ""
